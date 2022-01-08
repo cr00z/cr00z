@@ -1,7 +1,8 @@
 ## Hey!
-My name is Roman and I'm a Data Scientist living in Novosibirsk 
 
-<img align="right" alt="office" src="https://github.com/cr00z/cr00z/images/office.jpg" width="400" height="250" />
+<img align="right" alt="office" src="https://raw.githubusercontent.com/cr00z/cr00z/main/images/office.jpg" width="400" height="250" />
+
+My name is Roman and I'm a Data Scientist living in Novosibirsk 
 
 - 🔭 I’m currently working on information security
 - 🌱 I’m currently studying at [SibSUTIS](https://sibsutis.ru/en/)
