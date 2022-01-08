@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey!
+My name is Roman and I'm a Data Scientist living in Novosibirsk 
 
-<!--
-**cr00z/cr00z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="office" src="https://github.com/cr00z/cr00z/images/office.jpg" width="400" height="250" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on information security
+- 🌱 I’m currently studying at [SibSUTIS](https://sibsutis.ru/en/)
+- 💬 Ask me about ML, DL, ISec
+- 📫 How to reach me: [Telegram](https://t.me/imcr00z),  [Kaggle](https://www.kaggle.com/imcr00z)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 Python, bash
+- ⚙️ PyTorch, CV, NLP, Deep Learning
+- 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost
+- 💽 SQL, PostgreSQL, Hadoop, Docker
