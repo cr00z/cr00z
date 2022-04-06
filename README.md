@@ -15,4 +15,4 @@ My name is Roman and I'm a Data Scientist living in Novosibirsk
 - 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost
 - 💽 SQL, PostgreSQL, Hadoop, Docker
 
-[![codewars](https://www.codewars.com/users/cr00z/badges/large)](https://www.codewars.com/users/cr00z)
+[![codewars](https://www.codewars.com/users/cr00z/badges/small?theme=light)](https://www.codewars.com/users/cr00z)
