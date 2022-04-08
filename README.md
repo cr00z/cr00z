@@ -17,4 +17,4 @@ My name is Roman and I'm a Data Scientist living in Novosibirsk
 
 [![codewars](https://www.codewars.com/users/cr00z/badges/small?theme=light)](https://www.codewars.com/users/cr00z)
 
-<img align="left" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/imcr00z/notebook/light" width="100" height="120" />
+<img align="right" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/imcr00z/notebook/light" />
