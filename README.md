@@ -9,6 +9,8 @@ My name is Roman and I'm a Data Scientist living in Novosibirsk
 - 💬 Ask me about ML, DL, ISec
 - 📫 How to reach me: [Telegram](https://t.me/imcr00z),  [Kaggle](https://www.kaggle.com/imcr00z)
 
+[![kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/badges/imcr00z/notebook/light)](https://www.kaggle.com/imcr00z)
+
 ## Skills
 - 👨‍💻 Python, bash
 - ⚙️ PyTorch, CV, NLP, Deep Learning
@@ -16,5 +18,3 @@ My name is Roman and I'm a Data Scientist living in Novosibirsk
 - 💽 SQL, PostgreSQL, Hadoop, Docker
 
 [![codewars](https://www.codewars.com/users/cr00z/badges/small?theme=light)](https://www.codewars.com/users/cr00z)
-
-[![kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/imcr00z)](https://www.kaggle.com/imcr00z)
