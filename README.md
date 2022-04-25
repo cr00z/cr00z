@@ -5,12 +5,12 @@
 My name is Roman and I'm a Data Scientist living in Novosibirsk 
 
 - 🔭 I’m currently working on information security
-- 🌱 I’m currently studying at [SibSUTIS](https://sibsutis.ru/en/)
+- 🌱 I’m currently studying at [21 School](https://21-school.ru/)
 - 💬 Ask me about ML, DL, ISec
 - 📫 How to reach me: [Telegram](https://t.me/imcr00z),  [Kaggle](https://www.kaggle.com/imcr00z)
 
 ## Skills
-- 👨‍💻 Python, bash
+- 👨‍💻 Python, C, Golang bash
 - ⚙️ PyTorch, CV, NLP, Deep Learning
 - 👁️ pandas, numpy, sklearn, matplotlib, seaborn, xgboost/catboost
 - 💽 SQL, PostgreSQL, Hadoop, Docker
