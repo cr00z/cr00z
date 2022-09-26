@@ -5,7 +5,7 @@
 My name is Roman and I'm a Developer / Data Scientist living in Novosibirsk
 
 - 🔭 I’m currently working on information security
-- 🌱 I’m currently studying at [21 School](https://21-school.ru/)
+- 🌱 I’m currently studying at [21 School](https://21-school.ru/) (farfetch)
 - 💬 Ask me about Programming, ML, DL, ISec
 - 📫 How to reach me: [Telegram](https://t.me/imcr00z),  [Kaggle](https://www.kaggle.com/imcr00z)
 
