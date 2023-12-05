@@ -31,5 +31,5 @@ My name is Roman and I'm a Developer / Data Scientist living in Novosibirsk
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cr00z&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats
 --->
 [![codewars](https://www.codewars.com/users/cr00z/badges/large?theme=light)](https://www.codewars.com/users/cr00z)
-https://leetcode-stats-six.vercel.app/api?username=netrebinr&theme=dark
+[![leetcode](https://leetcode-stats-six.vercel.app/api?username=netrebinr&theme=dark)](https://leetcode.com/netrebinr/)
 <img align="left" alt="kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/imcr00z/notebook/light" width="80" height="100"/>
